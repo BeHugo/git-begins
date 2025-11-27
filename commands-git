@@ -1,6 +1,8 @@
-cloner : git clone [URL ou SSH de la repos]
-commandes push :
-- ajouter le ou les dossiers pour enregistrement : git add [ noms fichiers a ajouter]
-- enregistrer localement les changements : git commit ( ajouter -m pour commenter)
-- envoyer les changement sur github : git push [alias du dépot usuellement "origin"]
-commande pull pour synchroniser la copie local avec les changements fait sur la repos : git pull [alias du dépot] [nom de la branch] 
+cloner : git clone [URL ou SSH de la repos] commandes push : - ajouter le ou les dossiers pour 
+enregistrement : git add [ noms fichiers a ajouter] - enregistrer localement les changements : git 
+commit ( ajouter -m pour commenter) - envoyer les changement sur github : git push [alias du dépot 
+usuellement "origin"] commande pull pour synchroniser la copie local avec les changements fait sur la 
+repos : git pull [alias du dépot] [nom de la branch]
+commandes pour créer une branche :
+-creer une branche : git branch [alias de la branche]
+-basculer sur une branche : git checkout [alias de la branche]
