@@ -1,0 +1,5 @@
+cloner : git clone [URL ou SSH de la repos]
+commandes push :
+- ajouter le ou les dossiers pour enregistrement : git add
+- enregistrer localement les changements : git commit
+- envoyer les changement sur github : git push
